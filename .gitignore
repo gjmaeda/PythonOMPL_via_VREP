@@ -1,0 +1,13 @@
+/.idea/git_MP_VREP_OMPL.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/__pycache__/VREP_ROBOT3.cpython-36.pyc
+/__pycache__/kinematics2.cpython-36.pyc
+/__pycache__/utils.cpython-36.pyc
+/__pycache__/vrep.cpython-36.pyc
+/__pycache__/vrepConst.cpython-36.pyc
+/vrep.py
+/vrepConst.py
+/remoteApi.so
