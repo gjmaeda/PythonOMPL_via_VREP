@@ -11,7 +11,7 @@ To create a successful connection, you need the following files also in the same
 2. vrep.py
 3. vrepConst.py
 
-These files are found in the current V-REP distribution you are currently using (see the V-REP documentation).
+These files are found in within the V-REP directory of your current distribution (see the V-REP documentation regarding remote API).
 
 To run the code, open the scene 
     kuka_python_OMPL.ttt
