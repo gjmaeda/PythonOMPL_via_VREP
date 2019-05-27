@@ -10,6 +10,7 @@ To create a successful connection, you need the following files also in the same
 1. remoteApi.so
 2. vrep.py
 3. vrepConst.py
+
 These files are found in the current V-REP distribution you are currently using (see the V-REP documentation).
 
 To run the code, open the scene 
